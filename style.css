@@ -2,7 +2,7 @@
   padding-top: 6rem;
   background-color: #e2edff;
 }
-#projects {
+#projects, #contact {
   background-color: #e2edff;
 }
 section {
@@ -10,4 +10,11 @@ section {
 }
 .collapse {
   border: 0;
+}
+.gallery-img {
+  width: 100%; 
+}
+#gallery .row > * {
+  padding: 0;
+
 }
